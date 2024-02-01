@@ -1,8 +1,21 @@
-# React + Vite
+# react-three-fiber template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+a basic scene of a cube and a html text, this scene is of a cube with orbitControls feel free to create 
 
-Currently, two official plugins are available:
+## This basic stack for r3f apps uses the following:
+  
+  - javascript (No typescript honey sawrry)
+  - react
+  - vite
+  - tailwindcss
+  - Three.js
+  - react-three/fiber
+  - react-three/drei
+  - react-three/leva
+  - types/three
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## nice things to remember:
+
+  - the models go in the `public/` dir
+
+  
